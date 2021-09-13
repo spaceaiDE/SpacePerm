@@ -1,0 +1,4 @@
+name: SpacePerms
+version: 1.0.0
+author: SpaceAI
+main: de.spaceai.spaceperms.bootstrap.BungeeBootstrap
